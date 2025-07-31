@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Hi, I'm Talha Saleem
 
-<!--
-**TalhaSaleem-26/TalhaSaleem-26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 I’m currently building Backened Projects
+🌱 Learning React For Frontened   
+💼 Backend Intern @ CodeAlpha  
+📫 Reach me:muhammadtalhasaleem2020@gmail.com
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)
+![Node.js](https://img.shields.io/badge/-Node.js-green?style=flat&logo=node.js)
+![Express.js](https://img.shields.io/badge/-Express.js-black?style=flat&logo=express)
+![MongoDB](https://img.shields.io/badge/-MongoDB-darkgreen?style=flat&logo=mongodb)
+![EJS](https://img.shields.io/badge/-EJS-white?style=flat)
+
+---
+
+### 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TalhaSaleem-26&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TalhaSaleem-26&layout=compact&theme=tokyonight)
+
+---
+
+### 📌 Featured Projects
+- 🔗 [URL Shortener App](https://github.com/TalhaSaleem-26/CodeAlpha_URLShortener)
+- 🎮 [Tic Tac Toe Game](https://github.com/TalhaSaleem-26/TicTacToe)
+- 📚 [Quiz App](https://github.com/TalhaSaleem-26/Quiz-App)
