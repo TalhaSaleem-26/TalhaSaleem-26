@@ -24,5 +24,5 @@
 
 ### 📌 Featured Projects
 - 🔗 [URL Shortener App](https://github.com/TalhaSaleem-26/CodeAlpha_URLShortener)
-- 🎮 [Tic Tac Toe Game](https://github.com/TalhaSaleem-26/TicTacToe)
-- 📚 [Quiz App](https://github.com/TalhaSaleem-26/Quiz-App)
+- 🎮 [Portfolio](https://github.com/TalhaSaleem-26/Project)
+- 📚 [Backened Mini Project](https://github.com/TalhaSaleem-26/Backened-Mini-Task)
