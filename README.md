@@ -61,10 +61,9 @@ A secure automation platform designed to centralize and manage culinary administ
 
 ## 📊 Analytics & Insights
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TalhaSaleem-26&show_icons=true&theme=tokyonight&count_private=true" alt="Talha's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TalhaSaleem-26&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
-</p>
+![Talha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TalhaSaleem-26&show_icons=true&theme=tokyonight&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TalhaSaleem-26&layout=compact&theme=tokyonight)
 
 ---
 
