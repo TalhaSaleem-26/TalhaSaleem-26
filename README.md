@@ -72,7 +72,7 @@ A centralized database automation platform engineered to streamline restaurant o
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=TalhaSaleem-26&theme=tokyonight&hide_border=true" alt="Talha's GitHub Streak" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TalhaSaleem-26&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TalhaSaleem-26&theme=tokyonight" alt="GitHub Profile Details" width="49%" />
 </p>
 ---
 
