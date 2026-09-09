@@ -69,10 +69,9 @@ A centralized database automation platform engineered to streamline restaurant o
 
 ## 📊 Analytics & Insights
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TalhaSaleem-26&show_icons=true&theme=tokyonight&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TalhaSaleem-26&layout=compact&theme=tokyonight" width="48%" />
-</div>
+
+[![Talha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TalhaSaleem-26&show_icons=true&theme=tokyonight)](https://github.com/TalhaSaleem-26)
+[![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=TalhaSaleem-26&layout=compact&theme=tokyonight)](https://github.com/TalhaSaleem-26)
 
 ---
 
