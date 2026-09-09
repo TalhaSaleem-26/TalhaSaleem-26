@@ -2,10 +2,10 @@
 
 A results-driven **Full-Stack Developer** specializing in the **MERN Stack**, scalable backend architectures, and high-performance system optimization. Proficient in building robust RESTful APIs, implementing multi-tier caching structures, and integrating **Applied Machine Learning models** into dynamic web applications.
 
+🌐 **Live Portfolio:** [https://personal-portfolio-silk-nine-28.vercel.app/](https://personal-portfolio-silk-nine-28.vercel.app/)  
+🎓 **Academic Background:** BS in Computer Science @ SZABIST Islamabad (CGPA: 3.58)  
 🔭 **Current Focus:** Advanced Backend Optimization & Cloud Architectures  
 🌱 **Continuous Learning:** Next.js, TypeScript, & Applied Data Science  
-🎓 **Academic Background:** BS in Computer Science @ SZABIST Islamabad (CGPA: 3.58)  
-🌐 **Live Portfolio:** [talhasaleem.dev](https://personal-portfolio-silk-nine-28.vercel.app/)  
 📫 **Professional Outreach:** [muhammadtalhasaleem.2004@gmail.com](mailto:muhammadtalhasaleem.2004@gmail.com)
 
 ---
@@ -69,14 +69,17 @@ A centralized database automation platform engineered to streamline restaurant o
 
 ## 📊 Analytics & Insights
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TalhaSaleem-26&show_icons=true&theme=tokyonight&count_private=true" alt="Talha's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TalhaSaleem-26&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TalhaSaleem-26&show_icons=true&theme=tokyonight&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TalhaSaleem-26&layout=compact&theme=tokyonight" width="48%" />
+</div>
 
 ---
 
 ## 🤝 Establish Connection
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/talha-saleem-dev)
-[![Live Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://personal-portfolio-silk-nine-28.vercel.app/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammadtalhasaleem.2004@gmail.com)
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/talha-saleem-dev"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://personal-portfolio-silk-nine-28.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="mailto:muhammadtalhasaleem.2004@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
